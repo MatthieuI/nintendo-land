@@ -1,0 +1,53 @@
+.navbar {
+    min-height: 10vh;
+    /* max-height: 10vh; */
+}
+
+#logo {
+    max-height: 10vh;
+}
+
+.nav-link {
+    font-size: 1.5rem;
+}
+
+/* .description-text {
+    font-size: 1.5rem !important;
+} */
+
+.text-danger {
+    color: #E60013 !important;
+}
+
+.dot-red {
+    border-top: 1px dotted #E60013;
+}
+
+.bg-danger {
+    background-color: #E60013 !important;
+}
+
+.btn-danger {
+    background-color: #E60013;
+    border-color: #E60013;
+}
+
+.btn-outline-danger {
+    color: #E60013;
+    background-color: white !important;
+    border-color: #E60013;
+}
+
+.btn-outline-danger:hover {
+    color: #500000;
+    background-color: white !important;
+    border-color: #E60013;
+}
+
+.close {
+    color: #FFF;
+}
+
+.img-thumbnail {
+    border: 1px solid rgba(230, 0, 19, 0.30) !important;
+}
